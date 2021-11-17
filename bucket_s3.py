@@ -25,3 +25,5 @@ def push_mongo_to_s3(query):
         upload(element)
 
 github_token: kevcwfsaxmtlphigonzd
+
+github_token: xoxp-2715247581217-2702633601602-2725492689812-2d2f8843d80437925f8a92a34bed47e3
